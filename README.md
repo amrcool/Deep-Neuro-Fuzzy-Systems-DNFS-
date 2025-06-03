@@ -74,7 +74,3 @@ This project uses the following Python libraries:
     └──AirQualityUCI.csv
     └──AirQualityUCI.xlsx
 ```
-
-```
-
-```
