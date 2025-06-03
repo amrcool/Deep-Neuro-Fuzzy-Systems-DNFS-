@@ -37,20 +37,20 @@ This project uses the following Python libraries:
 ## 🛠️ How to Run
 
 1. Clone the repository:
-   ```bash
+
+```bash
    git clone https://github.com/amrcool/Deep-Neuro-Fuzzy-Systems-DNFS-.git
    cd Deep-Neuro-Fuzzy-Systems-DNFS-
-   ```
-
-````
+```
 
 2. Install required libraries:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+    pip install -r requirements.txt
+```
 
 3. Run the notebook:
+
    Open `Deep Neuro-Fuzzy Systems (DNFS).ipynb` using Jupyter Notebook or VS Code and run all cells.
 
 ---
@@ -74,4 +74,7 @@ This project uses the following Python libraries:
     └──AirQualityUCI.csv
     └──AirQualityUCI.xlsx
 ```
-````
+
+```
+
+```
